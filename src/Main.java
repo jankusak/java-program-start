@@ -8,7 +8,7 @@ public class Main {
 //        for (int i =0; i < numbers.length; i++){
 //            numbers[i] = i;
 //            System.out.println(numbers[i]);
-git//        }
+//        }
 
 //        for (int number : numbers){
 //            System.out.println(number);
@@ -18,5 +18,6 @@ git//        }
         for (String name : names){
             System.out.println(name);
         }
+        System.out.println("jdnewjndkw");
     }
 }
